@@ -14,7 +14,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "devtf-key"
+  default = "hdevtf-key"
   type    = string
 }
 
